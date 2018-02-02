@@ -31,7 +31,7 @@ and of course
 
 ### Practice Problems (by number):
 |   |  |  |
-|------:|------:|------:|
+|------:|------:|------:|------:|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
