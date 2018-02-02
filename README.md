@@ -27,9 +27,9 @@ and of course
 | Category |   Link |
 |----------|------:|
 | List of expertise levels | [Advanced](https://github.com/jqu224/Java-Practice/labels/Advanced) |
-|  | [Intermediate](https://github.com/jqu224/Java-Practice/labels/Intermediate)  |
-|  | [Beginner](https://github.com/jqu224/Java-Practice/labels/Beginner)     |
-|  | [Novice](https://github.com/jqu224/Java-Practice/labels/Novice)  |
+|  | [Intermediate](https://github.com/jqu224/Java-Practice/labels/Intermediate) |
+|  | [Beginner](https://github.com/jqu224/Java-Practice/labels/Beginner) |
+|  | [Novice](https://github.com/jqu224/Java-Practice/labels/Novice) |
 
 ### Practice Problems (by number):
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
