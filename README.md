@@ -32,6 +32,10 @@ and of course
 |  | [Novice](https://github.com/jqu224/Java-Practice/labels/Novice) |
 
 ### Practice Problems (by number):
-[#0 fibonacci][1]
+[#0 fibonacci][0]
+[#0 fibonacci][0]
+[#0 fibonacci][0]
+[#0 fibonacci][0]
+[#0 fibonacci][0]
 
-[1](https://github.com/jqu224/Java-Practice/issues/1)
+[0]: https://github.com/jqu224/Java-Practice/issues/1 "1"
