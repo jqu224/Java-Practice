@@ -24,7 +24,7 @@ and of course
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
 
-| Category    Link |
+| Category |   Link |
 |----------|------:|
 | List of expertise levels | [Advanced](https://github.com/jqu224/Java-Practice/labels/Advanced) |
 |  | [Intermediate](https://github.com/jqu224/Java-Practice/labels/Intermediate)  |
