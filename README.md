@@ -24,11 +24,12 @@ and of course
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
 
-| Tables   |      Are      |  Cool |
+| Label   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| List of expertise levels |  left-aligned | [Advanced](https://github.com/jqu224/Java-Practice/labels/Advanced) |
+| col 2 is |    centered   |   https://github.com/jqu224/Java-Practice/labels/Intermediate |
+| col 3 is | right-aligned |    https://github.com/jqu224/Java-Practice/labels/Beginner |
+| col 3 is | right-aligned |    https://github.com/jqu224/Java-Practice/labels/Novice |
 
 ### Practice Problems (by number):
 [#0 fibonacci](https://github.com/jqu224/Java-Practice/issues/1)
