@@ -32,6 +32,174 @@ and of course
 ### Practice Problems (by number):
 |   |  |  |
 |------:|------:|------:|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] | -|
+| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] |_-|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
@@ -58,80 +226,6 @@ and of course
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
 | [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
-| [#0 fibonacci][0] | [#0 fibonacci][0] | [#0 fibonacci][0] -|
+
 
 [0]: https://github.com/jqu224/Java-Practice/issues/1 "1"
